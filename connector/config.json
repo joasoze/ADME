@@ -1,0 +1,10 @@
+{
+  "client_id": "<client_id>",
+  "client_secret": "<client_secret>",
+  "scopes": "<client_id>/.default",
+  "auth_callback_url": "http://localhost:8081",
+  "auth_token_url": "https://login.microsoftonline.com/<tenant_id>/oauth2/v2.0/token",
+  "auth_authorize_url": "https://login.microsoftonline.com/<tenant_id>/oauth2/v2.0/authorize",
+  "osduindexsearchendpoint": "<dns host for instance>/api/search/v2/query",
+  "data_partition_id": "<data_partition_id>"
+}
