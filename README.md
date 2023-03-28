@@ -10,7 +10,7 @@ The examples below are using an ADME instance with the [TNO dataset](https://git
 There are a few things to set up in order to have access and connect to the data. They are listed below, and then each point is further expanded upon in a separate paragraph. 
 
 1. The end user of the Power BI needs to have read access to the ADME instance and the Well data
-2. The App registration that was created with the ADME instance needs to have a "Redirect URI" for "Single Page Application" (SPA). For example "http://localhost:8081". 
+2. The App registration that was created with the ADME instance needs to have a "Redirect URI" for "Web". For example "http://localhost:8081". 
 3. Client secret used for connecting to the ADME instance. Se description below.
 4. Download the connector here: 
 [Pre-compiled connector](/connector/OSDUWellsConnector.mez)
